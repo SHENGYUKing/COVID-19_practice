@@ -9,10 +9,10 @@
 > 以Python下sklearn框架为基础，分别采用线性回归（LR）、支持向量回归机（SVR）、K最邻近（kNN）等算法对其进行尝试，分别获得了三种算法下模型的学习曲线，仅供性能参考，如需实际应用还有待更多实际样本的检验以及进一步优化模型。
 
 ## 线性回归模型学习曲线
-> ![](./COVID-19byLR.png)
+> ![COVID-19byLR.png](./COVID-19byLR.png)    
 
 ## 支持向量（回归）机学习曲线
-> ![](./COVID-19bySVR(0.01gama).png)
+> ![COVID-19bySVR(0.01gama).png](./COVID-19bySVR(0.01gama).png)    
 
 ## K最邻近算法学习曲线
-> ![](./COVID-19bykNN.png)
+> ![COVID-19bykNN.png](./COVID-19bykNN.png)    
